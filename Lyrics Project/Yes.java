@@ -17,7 +17,7 @@ public class Yes {
 			"Жамгыр болуп, төгүлүп ыйлап келет,\n" +
 			"Жабыркаган жүрөгүмдүн тең кесими.");
 		}
-	}
+	} // https://www.youtube.com/watch?v=ZvDU532l2wI&list=PLpuAHIgm8rOKm7iRmj1WGhNzlQsNxer-3 is link to song
 	public static void wtmoo()
 	{
 		System.out.println("Алоолоп оттой жанып, жанып күйдүм ай,\n" +
