@@ -46,6 +46,9 @@ public class Yes {
 		"Мен өзүңдү күтүп келемин тажабай!");
 	}
 	public static void main(String[] args) {
+		System.out.println("some random song i found on youtube:");
+		System.out.println();
+
 		geniosity(0);
 		System.out.println();
 		wtmoo(false);
